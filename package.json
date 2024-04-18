@@ -8,7 +8,7 @@
     "build": "tsc",
     "start": "nodemon dist/index.js"
   },
-  "author": "",
+  "author": "Madhushani Hewagama",
   "license": "ISC",
   "dependencies": {
     "@types/body-parser": "^1.19.5",
